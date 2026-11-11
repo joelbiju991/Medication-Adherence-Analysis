@@ -1,0 +1,27 @@
+# Python environment and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Original and processed datasets: may contain patient-level information
+data/raw/
+data/processed/
+outputs/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
