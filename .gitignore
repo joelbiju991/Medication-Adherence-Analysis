@@ -25,3 +25,10 @@ outputs/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Additional protection for private datasets
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
