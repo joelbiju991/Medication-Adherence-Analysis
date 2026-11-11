@@ -4,7 +4,7 @@
 
 An end-to-end healthcare analytics case study inspired by a pharmacy quality scenario. The project uses prescription refill records to measure medication adherence across three measures—diabetes, hypertension (RAS), and cholesterol (statins)—identify potential outreach candidates, and explore associations with pharmacy channel and copay.
 
-## 4K Project Summary
+## Project Summary
 
 ![Medication Adherence Analysis - 4K Project Summary](reports/figures/Medication%20Adherence%20Dashboard%20Summary.png)
 
